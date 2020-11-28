@@ -67,3 +67,16 @@
 
 ![img1](/img/5-4.jpg)
 
+#### 6. Setting max lease time 300 detik untuk subnet 1 dan 600 detik untuk subnet 3
+
+![img1](/img/6-1.jpg)
+
+![img1](/img/6-2.jpg)
+
+#### 7. Nyalakan procy dengan IP Mojokerto, lalu membuat user authentication di /etc/squid3/passwd
+
+![img1](/img/7-1.jpg)
+
+* Setelah membuat user authentication
+
+![img1](/img/7-2.jpg)
