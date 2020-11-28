@@ -71,8 +71,6 @@
 
 ![img1](/img/6-1.jpg)
 
-![img1](/img/6-2.jpg)
-
 #### 7. Nyalakan procy dengan IP Mojokerto, lalu membuat user authentication di /etc/squid3/passwd
 
 ![img1](/img/7-1.jpg)
