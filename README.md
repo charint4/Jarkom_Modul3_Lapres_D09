@@ -78,3 +78,19 @@
 * Setelah membuat user authentication
 
 ![img1](/img/7-2.jpg)
+
+#### 8. Mengsetting agar internet hanya bisa diakses pada Selasa-Rabu pukul 13:00 - 18:00 perlu membuat acl AVAILABLE_WORKING 
+
+![img1](/img/8-1.jpg)
+
+* Lalu di squid.conf, pada nomor 7 perlu ditambhakan auth_param yang diarahkan passwd yang telah dibuat. Tambahkan juga http_acces allow untuk AVAILABLE_WORKING, AVAILABEL_WORKING_1
+
+![img1](/img/8-2.jpg)
+
+#### 9 . Akses internet Selasa-Kamis 21:0 - 09:00
+
+![img1](/img/8-1.jpg)
+
+* Lalu di squid.conf, ambahkan juga http_acces allow untuk AVAILABLE_WORKING_2
+
+![img1](/img/8-2.jpg)
