@@ -94,3 +94,12 @@
 * Lalu di squid.conf, ambahkan juga http_acces allow untuk AVAILABLE_WORKING_2
 
 ![img1](/img/8-2.jpg)
+
+#### 10. Tambahkan acl ban degann access deny untuk google.com dan arahkan ke monta.if.its.ac.id
+
+![img1](/img/10-1.jpg)
+
+* Saat mengakses google.com
+
+![img1](/img/10-2.jpg)
+
