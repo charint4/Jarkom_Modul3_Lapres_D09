@@ -120,3 +120,16 @@
 
 ![img1](/img/11-4.jpg)
 
+#### 12. Membuat DNS di malang yang diarahkan ke IP Mojokerto
+
+![img1](/img/12-1.jpg)
+
+![img1](/img/12-2.jpg)
+
+* Lalu pada proxy setting windows diganti address nya menjadi seperti gambar dibawah
+
+![img1](/img/12-3.jpg)
+
+* Lalu cek apakah apapun, seperti bing.com
+
+![img1](/img/12-4.jpg)
