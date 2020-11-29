@@ -103,3 +103,20 @@
 
 ![img1](/img/10-2.jpg)
 
+#### 11. Download error page default dengan wget di `/usr/share/squid/errors/en`
+
+![img1](/img/11-1.jpg)
+
+* Lalu ubah nama delete ERR_ACCESS_DENIED dan rename ERR_ACCESS_DENIED.1 menjadi ERR_ACCESS_DENIED
+* Kemudian `nano /etc/squid/restrict-sites.acl` dan tuliskan alamat url yang ingin diblok
+
+![img1](/img/11-2.jpg)
+
+* Pada `squid.conf` tuliskan konfigurasi dibawah ini
+
+![img1](/img/11-3.jpg)
+
+* Hasilnya ketika mengakses alamat yang diblok
+
+![img1](/img/11-4.jpg)
+
